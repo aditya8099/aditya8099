@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advances coding
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me
 - 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
 
 <!-
 aditya8099/aditya8099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
